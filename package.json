@@ -1,0 +1,16 @@
+{
+  "name": "react-express",
+  "version": "1.0.0",
+  "description": "react-express-app",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "server": "nodemon server.js"
+  },
+  "author": "Amila Weerasinghe",
+  "license": "MIT",
+  "dependencies": {
+    "concurrently": "^5.0.2",
+    "express": "^4.17.1"
+  }
+}
